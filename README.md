@@ -1,2 +1,2 @@
-# sport
-Spreadsheets
+# Sport Dynamics
+Spreadsheets from my dialogue with ChatGPT without external sources. Value finding to distance metric. Less than 1 is certain. above 2 is uncertain. The favorite is not lost if he have 2.45 in the first set (1.98). Efficient ATP rank have implied metrics. Conditions to tiebreaks: age, travel, altitude, humidity. Unlike team sports the spatial conditions can be directly attributed to match outcomes rather than social dynamics. 
